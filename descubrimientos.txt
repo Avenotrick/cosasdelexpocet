@@ -1,0 +1,7 @@
+bueno, mis primeros descubrimientos y requisitos para hacer la ia funcionar son:
+1: el ollama o algun cargador de llm
+2: el repo de gguf del hugging face
+3: al menos 8gb de ram para las pruebas
+
+avance 1: descubri una ia que entiende lo que le digo  y tiene conocimientos basicos, es el gemma 2 2b de este tipo https://huggingface.co/bartowski/gemma-2-2b-it-GGUF
+me parecio muy buen modelo en mi opinion
